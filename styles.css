@@ -1,3 +1,12 @@
 body {
   color: red;
 }
+
+p {
+  background-color: aliceblue;
+  opacity: 0.5;
+}
+
+h1 {
+  font-size: 100px;
+}
