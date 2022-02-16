@@ -3,13 +3,15 @@ body {
 }
 
 p {
+  background-color: aliceblue;
+  opacity: 0.5;
   font-size: 50px;
 }
 
 h1 {
-  background-color: aqua;
-  color: blue;
+  font-size: 100px;
 }
+
 
 img {
   width: 100px;
